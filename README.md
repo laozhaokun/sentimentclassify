@@ -1,7 +1,6 @@
 sentimentclassify
 =================
-This is a course project of Machine Learning and Knowledge Discovey
-.<br/>
+This is a  project of Sentiment Detection.<br/>
 <br/>
 We are using SVM and Perceptron to train and classify the sentiment datasets.<br/>
 <br/>
